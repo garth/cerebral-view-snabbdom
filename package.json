@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/cerebral/cerebral-snabbdom#readme",
   "dependencies": {
-    "snabbdom": "^0.2.8",
+    "snabbdom": "garth/snabbdom#tidy",
     "snabbdom-jsx": "^0.3.0"
   },
   "devDependencies": {
